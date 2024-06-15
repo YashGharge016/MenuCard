@@ -172,6 +172,12 @@ body {
     }
 }
 
+@media (max-width: 768px) {
+    .main {
+        background-size: contain;
+    }
+}
+
 .single-menu {
     position: relative;
 }
